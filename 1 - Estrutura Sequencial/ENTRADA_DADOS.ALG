@@ -8,6 +8,7 @@ Var
 
 Inicio
 
+   // Entrada de Dados (leia)
    escreva("Digite seu nome: ")
    leia(nome)
    escreva("Digite sua idade: ")
@@ -19,7 +20,7 @@ Inicio
    escreval("DADOS DIGITADOS: ")
    escreval("Nome = ", nome)
    escreval("Idade = ", idade)
-   escreval("Salario 1 = ", salario1:8:2)
-   escreval("Salario 2 = ", salario2:8:2)
+   escreval("Salario 1 = ", salario1:5:2)
+   escreval("Salario 2 = ", salario2:5:2)
 
 Fimalgoritmo

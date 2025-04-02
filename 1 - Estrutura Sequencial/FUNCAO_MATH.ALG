@@ -1,19 +1,19 @@
 Algoritmo "Funcao_Math"
 
 Var
-    x, y, z, a, b, c, d : real
+    f, g, h, a, b, c, d : real
 
 Inicio
 
     // Funções Matemática no VisualG
-    x <- 2.0
-    y <- 3.0
-    z <- -7.0
+    f <- 2.0
+    g <- 3.0
+    h <- -7.0
     
-    a <- Exp(x, y)
-    b <- RaizQ(y)
-    c <- Pi
-    d <- Abs(z)
+    a <- Exp(f, g) // Exponenciação
+    b <- RaizQ(g)  // Raiz quadrada
+    c <- Pi        // Pega o valor PI
+    d <- Abs(h)    // Valor absoluto
 
     escreval(a)
     escreval(b)

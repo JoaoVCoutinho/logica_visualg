@@ -9,6 +9,8 @@ Var
 
 Inicio
 
+   // Usar variável em saidas(escreva)
+
    produto1 <- "Computador"
    produto2 <- "TV"
    preco1 <- 2100.5
