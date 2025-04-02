@@ -8,6 +8,6 @@ Este repositório contém meus exercícios e anotações baseados no curso Algor
 
 ## Contéudo a ser aprendido no curso
 
-- A lógica de programção com Portugol, utilizando Visualg
-- E fazer os exércicos propostos em Portugol.
-- E fazer os mesmos exercícios em outros linguagem C, C++, Python, C# e Java.
+- Aprender lógica de programação utilizando Portugol no Visualg.
+- Resolver os exercícios propostos em Portugol.
+- Reescrever os mesmos exercícios em outras linguagens: C, C++, Python, C# e Java.
