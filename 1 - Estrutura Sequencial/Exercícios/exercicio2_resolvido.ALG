@@ -7,13 +7,15 @@ Var
 
 Inicio
 
+
+   // Corrigido
    escreva("Base do retângulo: ")
    leia(baseR)
    escreva("Altura do retângulo: ")
    leia(alturaR)
    
    area <- baseR * alturaR
-   perimetro <- 2*(baseR + alturaR)
+   perimetro <- 2 * (baseR + alturaR)
    diagonal <- raizQ(Exp(baseR, 2) + Exp(alturaR, 2))
    
    escreval("AREA = ", area:8:4)

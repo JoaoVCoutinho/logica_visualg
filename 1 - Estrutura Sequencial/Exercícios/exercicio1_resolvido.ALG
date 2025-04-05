@@ -5,6 +5,7 @@ Var
     larg, comp, valorM, areaT, precoT : real
 Inicio
 
+    // Corrigido
     escreva("Digite a largura do terreno: ")
     leia(larg)
     escreva("Digite o comprimento do terreno: ")
