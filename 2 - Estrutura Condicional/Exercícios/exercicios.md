@@ -5,7 +5,7 @@
 Faça um programa que leia:
 - As **duas notas** que um aluno obteve no **primeiro e segundo semestres** de uma disciplina anual.
 
-O programa deve calcular e exibir:
+O programa deve calcular(somar) e exibir:
 - A **nota final** do aluno (com **uma casa decimal**).
 - Uma **mensagem explicativa** sobre o resultado.
 
