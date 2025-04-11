@@ -7,6 +7,7 @@ Var
 
 Inicio
 
+   // Corrigido
    escreva("Digite a primera nota: ")
    leia(nota1)
    escreva("Digite a segunda nota: ")
