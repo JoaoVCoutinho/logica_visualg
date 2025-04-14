@@ -23,3 +23,25 @@ O programa deve calcular e exibir:
 - O comprimento da diagonal do retângulo.
 
 Os resultados devem ser exibidos com **quatro casas decimais**.
+
+---
+
+## Exercício 3: Idades
+
+Faça um programa que leia:
+- O **nome** e a **idade** de **duas pessoas**.
+
+O programa deve calcular e exibir:
+- Uma **mensagem** com os **nomes** informados.
+- A **idade média** entre essas pessoas, com **uma casa decimal**.
+
+---
+
+## Exercício 4: Soma
+
+Faça um programa que leia:
+- Dois **valores inteiros**: `X` e `Y`.
+
+O programa deve calcular e exibir:
+- O valor da **soma** de `X` e `Y`.
+
